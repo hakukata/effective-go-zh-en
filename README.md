@@ -1,5 +1,8 @@
 《Effective Go》中英双语版
 ===
+
+> 本开源书 forked from [《Effective Go》中英双语版](https://github.com/bingohuang/effective-go-zh-en)，作者为 [bingohuang](https://github.com/bingohuang)，欢迎大家 star 原作者的 [repo](https://github.com/bingohuang/effective-go-zh-en)，以便获得最新更新，谢谢！
+
 ## *Effective Go* - 《实效 GO 编程》
 
 ### Introduction
